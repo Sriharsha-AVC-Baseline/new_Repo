@@ -1,0 +1,1 @@
+H.266 / VVC (Versatile Video Codec) is a next gen Codec Which is a successor of H.265 / HEVC (High Efficiency Video Codec). VVC Offers 50% bandwidth reduction compared to HEVC and hence it is most suitable for UHD (4K / 8K) AR , VR. 
